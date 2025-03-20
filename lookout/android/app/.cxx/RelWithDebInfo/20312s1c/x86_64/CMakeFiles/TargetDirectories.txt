@@ -1,0 +1,2 @@
+D:/CODE/Lookout/lookout/android/app/.cxx/RelWithDebInfo/20312s1c/x86_64/CMakeFiles/edit_cache.dir
+D:/CODE/Lookout/lookout/android/app/.cxx/RelWithDebInfo/20312s1c/x86_64/CMakeFiles/rebuild_cache.dir
