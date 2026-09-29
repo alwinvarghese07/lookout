@@ -1,2 +1,0 @@
-D:/CODE/Lookout/lookout/android/app/.cxx/Debug/40383r25/arm64-v8a/CMakeFiles/edit_cache.dir
-D:/CODE/Lookout/lookout/android/app/.cxx/Debug/40383r25/arm64-v8a/CMakeFiles/rebuild_cache.dir
